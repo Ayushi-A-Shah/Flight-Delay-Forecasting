@@ -23,7 +23,7 @@ The full Jupyter Notebook containing EDA and forecasting code is available here:
 
 ## How to Run This Project Locally
 
-## 1. Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/Ayushi-A-Shah/Flight-Delay-Forecasting.git
 cd Flight-Delay-Forecasting
