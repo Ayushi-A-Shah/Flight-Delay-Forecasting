@@ -35,7 +35,8 @@ pip install -r requirements.txt
 
 ### 3. Launch Jupyter Notebook
 jupyter notebook
-Then open the notebook located at: notebooks/Flight_Delay_Forecasting_Code.ipynb```
+Then open the notebook located at: notebooks/Flight_Delay_Forecasting_Code.ipynb
+```
 
 ## Key Findings
 - Seasonality: Delay spikes in summer months across all regions.
