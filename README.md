@@ -8,19 +8,6 @@ Flight delays cost airlines millions and impact millions of passengers. This pro
 - What types of delays dominate the dataset
 - How well we can forecast future delays using classical forecasting models
 
-## Project Structure
-Flight-Delay-Forecasting/
-│
-├── notebooks/
-│   └── Flight_Delay_Forecasting_Code.ipynb
-│
-├── reports/
-│   └── Flight_Delay_Forecasting_Report.pdf
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-
 ## Project Report
 The full Exploratory Data Analysis (EDA) and forecasting report is available here:
 [Flight Delay Forecasting Report](reports/Flight_Delay_Forecasting_Report.pdf)
