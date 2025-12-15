@@ -27,12 +27,15 @@ The full Jupyter Notebook containing EDA and forecasting code is available here:
 ```bash
 git clone [https://github.com/Ayushi-A-Shah/Flight-Delay-Forecasting.git
 cd Flight-Delay-Forecasting]
+
 ### 2. Install dependencies
 pip install -r requirements.txt
 
 ### 3. Launch Jupyter Notebook
 jupyter notebook
 Then open the notebook located at: notebooks/Flight_Delay_Forecasting_Code.ipynb
+
+
 
 ## Key Findings
 - Seasonality: Delay spikes in summer months across all regions.
